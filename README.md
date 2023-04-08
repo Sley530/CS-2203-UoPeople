@@ -10,5 +10,5 @@ at UoPeople.
 - UNIT 1:
 - UNIT 1:
 - UNIT 1:
-- UNIT 1:
+- UNIT 7:
 - UNIT 8:
