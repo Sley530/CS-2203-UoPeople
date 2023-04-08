@@ -4,5 +4,6 @@ In this repository I will put all the assignments that I have done in Databases 
 at UoPeople.
 
 ## Topics
-UNIT 1:
-UNIT 1:
+- UNIT 1:
+- UNIT 1:
+- UNIT 1:
