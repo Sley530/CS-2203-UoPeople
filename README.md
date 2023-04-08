@@ -6,7 +6,7 @@ at UoPeople.
 ## Topics
 - UNIT 1:
 - UNIT 1:
-- UNIT 1:
+- UNIT 3:
 - UNIT 4:
 - UNIT 5:
 - UNIT 6:
